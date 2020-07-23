@@ -14,7 +14,7 @@ your_pc$ virtualenv -p /usr/bin/python3 venv
 your_pc$ source venv/bin/activate
 ```
 ```console
-(venv)your_pc$ pip install selenium
+(venv)your_pc$ pip install -r requirements.txt
 ```
 - Have firefox installed
 - I used geckodriver for linux. If you run windows, install geckodriver for windows.
