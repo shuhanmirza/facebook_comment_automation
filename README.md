@@ -38,6 +38,6 @@ You will need to add PATH for geckodriver
 
 
 ## Tip
-You can use a residential proxy to avoid being flagged as a bot and get your IP blocked. I prefer [NodeMaven](https://go.nodemaven.com/proxies17) . You can use `PLUS2` promo code to add 2GB when purchasing a trial or any package. Unlike other providers, [NodeMaven](https://go.nodemaven.com/proxies17) uses an advanced filtering algorithm to screen IPs in real-time before assigning them, ensuring you get high quality addresses 95% of the time. With [NodeMaven](https://go.nodemaven.com/proxies17)’s hybrid proxy technology, they are able to provide us with longer session times and IPs last up to 24 hours — many times the industry average.
+You can use a residential proxy to avoid being flagged as a bot and get your IP blocked. I prefer [NodeMaven](https://go.nodemaven.com/shuhanmirza) . You can use `PLUS2` promo code to add 2GB when purchasing a trial or any package. Unlike other providers, [NodeMaven](https://go.nodemaven.com/shuhanmirza) uses an advanced filtering algorithm to screen IPs in real-time before assigning them, ensuring you get high quality addresses 95% of the time. With [NodeMaven](https://go.nodemaven.com/shuhanmirza)’s hybrid proxy technology, they are able to provide us with longer session times and IPs last up to 24 hours — many times the industry average.
 
 
